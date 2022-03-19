@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.container{
+    margin-top: 1rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
+}
+.inner-container{
+    text-align: center;
+    border: solid #ccc;
+    background: #ccc;
+}
+.my-sections{
+    display: flex;
+    padding-top: 1.25rem;
+    text-align: center;
+}
+.read-it{
+    border: solid #666;
+    background: #666;
+}
+.about-us{
+    border: solid #888;
+    background: #888;
+}
+.timeline{
+    border: solid #666;
+    background: #666;
+}
+.my-second{
+    padding: 2rem 10rem 6rem 3rem;
+    margin-top: 1rem;
+    margin-left: 0rem;
+    margin-right: 0rem;
+    background: #eee;
+}
+.important{
+    left: 3rem;
+    right: 20rem;
+    font-weight: bold;
+    position: relative;
+    top: 2rem;
+    bottom: 10rem;
+    padding-left: 10rem;
+    padding-right: 20rem;
+    margin-left: 7rem;
+    margin-right: 5rem;
+    background: #6ea3da;
+}
+.aside-title{
+    text-decoration: underline;
+}
+li{
+    list-style: none;
+}
+.list{
+    text-align: center;
+    padding: 1rem 2rem 1rem 2rem;
+    margin-top: 1rem;
+    margin-bottom: -3rem;
+    margin-left: 5rem;
+    position: absolute;
+    bottom: 15rem;
+    left: 25rem;
+    background: #fff;
+}
+.license{
+    margin-top: 1rem;
+    margin-left: 0rem;
+    margin-right: 0rem;
+    text-align: center;
+    padding-top: 0.125rem;
+    text-align: center;
+    background: #ccc;
+}
